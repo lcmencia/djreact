@@ -1,6 +1,5 @@
 # Django + React
-
-(https://github.com/lcmencia/djreact/blob/master/thumbnail.png "Logo")
+[![alt text](https://github.com/lcmencia/DjReact/blob/master/thumbnail.png "Logo")](https://parageek.com.py)
 
 This project is broken up into a backend and frontend. The backend contains the Django project which uses the Django Rest Framework to host a simple API. The frontend uses React and queries data from the API.
 
@@ -15,3 +14,4 @@ python manage.py makemigrations
 python manage.py migrate
 python manage.py runserver
 ```
+
